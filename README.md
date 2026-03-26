@@ -45,7 +45,11 @@ The dashboard uses an **MQTT Data Source** to visualize the live stream. A **Gau
 **Note on Limitation:** This setup utilizes the Grafana MQTT data source for **live monitoring only**. Because there is no database (like InfluxDB or Loki) attached, data is not stored; the dashboard only shows values received while the browser is open.
 
 ### Dashboard Screenshot
-
+<p align="center">
+  <img src="Screenshot_26-3-2026_165113_localhost.jpeg" width="800" alt="Grafana MQTT Dashboard">
+  <br>
+  <em>Real-time Temperature Monitoring Dashboard</em>
+</p>
 -----
 
 ## Reflection Questions
