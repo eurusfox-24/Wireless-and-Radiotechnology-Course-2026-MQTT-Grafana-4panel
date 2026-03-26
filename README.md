@@ -1,8 +1,5 @@
 # Wireless-and-Radiotechnology-Course-2026-MQTT-Grafana-4panel
 
-Here is the raw Markdown code for your **README.md** file. You can copy this entire block and paste it into a file named `README.md` in your GitHub repository.
-
-````markdown
 # IoT Real-Time Monitoring: Socket to MQTT Pipeline
 
 ## Project Overview
@@ -30,7 +27,7 @@ Run the components in this specific order to ensure the connection is establishe
 1. **Start the Edge Device:**
    ```bash
    python edge_device.py
-````
+
 
 2.  **Start the Sensor:**
     ```bash
@@ -72,9 +69,4 @@ MQTT is a lightweight, "publish-subscribe" protocol. It is ideal for monitoring 
   * `edge_device.py`: Bridge script converting Socket data to MQTT.
   * `README.md`: System documentation.
 
-<!-- end list -->
 
-```
-
-**Would you like me to show you how to name your screenshot file so it automatically appears in this README?**
-```
