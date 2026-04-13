@@ -1,6 +1,5 @@
-# Wireless-and-Radiotechnology-Course-2026-MQTT-Grafana-4panel
-
-# IoT Real-Time Monitoring: Socket to MQTT Pipeline
+# Distributed IoT Telemetry & Monitoring Pipeline
+> A real-time data ingestion bridge using Python Sockets and MQTT with live Grafana visualization.
 
 ## Project Overview
 This project demonstrates a complete IoT data pipeline. It simulates the flow of sensor data from a hardware source to a cloud-based monitoring dashboard using **Python Sockets**, **MQTT**, and **Grafana**.
